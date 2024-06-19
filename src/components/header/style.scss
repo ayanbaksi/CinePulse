@@ -29,6 +29,9 @@
     }
     .logo {
         cursor: pointer;
+        display: flex;
+        gap: 10px;
+        align-items: center;
         img {
             height: 50px;
         }
